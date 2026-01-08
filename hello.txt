@@ -1,2 +1,2 @@
 Some other file says hello
-Hello from feat-1
+Hello from feat-2
